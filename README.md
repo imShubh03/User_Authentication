@@ -9,6 +9,13 @@
 - Input Validation & Error Handling
 - Security Measures (bcrypt, JWT expiration, etc.)
 
+## Screenshots
+![Screenshot (370)](https://github.com/user-attachments/assets/d90d3183-f882-47d5-b6c4-a348be7a073a)
+![Screenshot (371)](https://github.com/user-attachments/assets/5349173b-1b2c-4fb0-84b7-98d50517c305)
+![Screenshot (368)](https://github.com/user-attachments/assets/4573db48-2dda-4bff-ba48-32d60b55e001)
+![Screenshot (369)](https://github.com/user-attachments/assets/f228a5f2-13e5-40d3-8195-97350093af42)
+
+
 ## 🛠️ Technologies Used
 - **Node.js**: JavaScript runtime
 - **Express.js**: Web framework for Node.js
@@ -63,26 +70,6 @@ PORT=5000
 ```
 npm run dev
 ```
- # 📂 Project Structure
-
-user-auth-system/
-├── config/
-│   └── db.js
-├── controllers/
-│   └── authController.js
-├── middleware/
-│   └── authMiddleware.js
-├── models/
-│   └── User.js
-├── routes/
-│   └── authRoutes.js
-├── utils/
-│   └── sendEmail.js
-├── .env
-├── .gitignore
-├── package.json
-├── README.md
-└── server.js
 
 # 🔒 Security Best Practices
 ## Use environment variables for sensitive information
